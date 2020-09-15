@@ -8,9 +8,9 @@ description: Spicy Data is modern minimal blog for all things data science.
 #-------------------------------
 # Author Settings
 author:
-  name: Eduardo Carrasco Jr.
-  image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
+  name: Eddie Lalo Carrasco
+  images: 01.jpg
+  say-hello: Hello, I’m <strong>Eduardo Lalo Carrasco</strong>
   bio: Author about <strong>Mathematics</strong>, <strong>Data Scientist</strong>, <strong>Certified Ethical Hacking</strong>, and machine learning. I share tutorials, free resources and inspiration. Loves <a href="#">music</a> & being an outdoorsman.
 
 
