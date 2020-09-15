@@ -1,0 +1,5 @@
+https://github.com/artemsheludko/zolan
+https://jekyllrb.com/docs/deployment/automated/
+http://www.smartjava.org/examples/webaudio/example3.html
+http://www.kasimte.com/adding-and-including-jupyter-notebooks-as-jekyll-blog-posts
+https://hw311.me/en/jekyll/2019/01/23/support-latex-in-jekyll-blog/
