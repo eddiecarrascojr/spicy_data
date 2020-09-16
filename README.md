@@ -1,5 +1,6 @@
-Spicy-Data - Modern & Minimal Blog site for programing.
+Zolan - Modern & Minimal Theme for Jekyll
 ======
+Zolan is a minimal blog theme for Jekyll.
 
 * * *
 
@@ -45,7 +46,7 @@ Table of Contents
 
 ### Demo
 
-Check the theme in action [Demo](https://eddielalocarrasco.github.io/spicy_data/)
+Check the theme in action [Demo](https://zolan-jekyll.netlify.app/)
 
 ![Main page preview](https://github.com/artemsheludko/zolan/blob/master/images/zolan-main-page.png?raw=true)
 
@@ -165,4 +166,5 @@ Mit License
 * * *
 
 ### Support
+<p>If you like the themes that I create you can become my sponsor on <a href="https://www.patreon.com/artemsheludko" target="_blank">Patreon</a>.
 <p align="center"><b>Thank you for your support ❤️</b></p>
